@@ -1,6 +1,6 @@
 name: Frog
 favicon: null
-layout_spectrum: 0.22919
+layout_spectrum: 1
 typography_spectrum: 0.51449
 title: asdad
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#383939'
-    - '#92CEFF'
-    - '#FFD89A'
-    - '#77FFB6'
-  brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+    - '#673713'
+    - '#ebedea'
+    - '#2a0d09'
+    - '#afaba0'
+    - '#ef982d'
+  brandStrength: 0.9375
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
