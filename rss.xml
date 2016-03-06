@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Frog]]></title>
         <description><![CDATA[Frog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 12:24:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 13:09:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[testo]]></title>
+            <description><![CDATA[<article><h1>testo</h1><p>Einladung zum Sommerfest unter Birken</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ab9b6c1bae732d20968102422a771f959d075ae.jpg"></article>]]></description>
+            <link>https://thegrid.ai/frog/testo/index.html</link>
+            <guid isPermaLink="false">cadfb802-4169-42f6-a5c7-1713abf47a6c</guid>
+            <pubDate>Sun, 06 Mar 2016 13:07:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ca26e9b-e6a1-4b4d-94ee-c85a3bb5731b.jpg">]]></description>
-            <link>undefined4c4e2a2b-7715-4466-b041-f33e99fe6841/index.html</link>
+            <link>https://thegrid.ai/frog/4c4e2a2b-7715-4466-b041-f33e99fe6841/index.html</link>
             <guid isPermaLink="false">4c4e2a2b-7715-4466-b041-f33e99fe6841</guid>
             <pubDate>Sun, 06 Mar 2016 12:22:58 GMT</pubDate>
         </item>
