@@ -1,14 +1,28 @@
-layout_spectrum: 0.2148936
+name: Frog
+favicon: null
+layout_spectrum: 0.22919
+typography_spectrum: 0.381
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.693617
-  lightness: 0.4255319
-  brandStrength: 0.8531915
   brandColors:
     - '#FFFFFF'
     - '#383939'
     - '#92CEFF'
     - '#FFD89A'
     - '#77FFB6'
+  brandStrength: 0.8531915
+  lightness: 0.4255319
+  saturation: 0.693617
   rhythmicContrast: 0.287234
-typography_spectrum: 0.1914894
-name: Frog
+purpose: []
