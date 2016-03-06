@@ -1,0 +1,14 @@
+layout_spectrum: 0.2148936
+color:
+  saturation: 0.693617
+  lightness: 0.4255319
+  brandStrength: 0.8531915
+  brandColors:
+    - '#FFFFFF'
+    - '#383939'
+    - '#92CEFF'
+    - '#FFD89A'
+    - '#77FFB6'
+  rhythmicContrast: 0.287234
+typography_spectrum: 0.1914894
+name: Frog
